@@ -1,0 +1,28 @@
+{
+  "name": "suss-certs",
+  "version": "1.0.0",
+  "description": "ERC721 Certs for SUSS",
+  "main": "hardhat.config.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/DaveAppleton/suss-certs.git"
+  },
+  "keywords": [
+    "SUSS",
+    "Certificates",
+    "IPFS"
+  ],
+  "author": "Dave Appleton",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DaveAppleton/suss-certs/issues"
+  },
+  "homepage": "https://github.com/DaveAppleton/suss-certs#readme",
+  "devDependencies": {
+    "@openzeppelin/contracts": "^3.4.0-solc-0.7",
+    "hardhat": "^2.0.9"
+  }
+}
